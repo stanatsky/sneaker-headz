@@ -27,3 +27,12 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap");
+
+body {
+  background-color: #faf9f6;
+  font-family: Titillium Web;
+}
+h1 {
+  font-family: Titillium Web;
+}
