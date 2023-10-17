@@ -40,11 +40,11 @@ h1 {
   font-family: Titillium Web;
 }
 .header {
-  font-size: 70px;
+  font-size: 3rem;
   font-weight: 600;
   background-image: linear-gradient(lightblue, red);
   text-align: center;
-  border-radius: 30px;
+  border-radius: 0.5em;
 }
 .images {
   height: 400px;
