@@ -30,9 +30,37 @@ Images:
 @import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap");
 
 body {
-  background-color: #faf9f6;
+  background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: Titillium Web;
 }
 h1 {
   font-family: Titillium Web;
+}
+.header {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(lightblue, red);
+  text-align: center;
+  border-radius: 30px;
+}
+.images {
+  height: 400px;
+  width: 600px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  border-radius: 30px;
+}
+#row1-section2 {
+  background: white;
+  border-radius: 30px;
+  padding: 5px;
+  outline-style: double;
+}
+#row2-section2 {
+  background: white;
+  border-radius: 30px;
+  padding: 5px;
+  outline-style: double;
 }
